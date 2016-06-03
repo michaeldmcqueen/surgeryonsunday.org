@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<main class="about subpage schedule">
+  <div class="intro">
+    
+
+  </div>
+    <section class="content-wrapper wrap">
+      <h1 class="pagetitle">{{ page.title }}</h1>
+      <h2 class="subtitle">{{ page.subtitle }}</h2>
+    
+      <div class="schedule-teaser">
+        {% for item in page.schedule %}
+          <h4>{{ item.title }}</h4>
+
+        {% endfor %}
+      </div>
+
+    </section>
+</main>

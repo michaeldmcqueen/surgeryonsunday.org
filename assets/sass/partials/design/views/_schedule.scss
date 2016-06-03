@@ -1,0 +1,68 @@
+main.schedule .wrap {
+  margin-bottom: -4em;
+}
+
+.schedule-teaser {
+  @include clearfix;
+  overflow:hidden;
+  position: relative;
+  clear: both;
+  border-top: 1px solid #D0D0D0;
+  .event-details {
+    background: #000;
+    padding: 2em;
+    overflow-y: hidden;
+    @include breakpoint($tablet, $no-query: '.no-mq') {
+      float: left;
+      width: 25%;
+    }
+    &:after {
+      content: '';
+      background: #000;
+      display: block;
+      position: absolute;
+      left: 0;
+      width: 25%;
+      z-index: 0;
+      height: 100%;
+
+    }
+    * {
+      color: #fff;
+      margin: 0;
+      font-weight: 500;
+    }
+    h6 {
+      padding-top: .35em;
+    }
+  }
+  .event-image {
+    position: relative;
+    display: none;
+    @include breakpoint($tablet, $no-query: '.no-mq') {
+      float: left;
+      display: block;
+      width: 20%;
+    }
+    img {
+      display: block;
+    }
+  }
+  .event-info {
+    float: left;    
+    position: relative;
+    background: #fff;
+    padding: 2em;
+    @include breakpoint($tablet, $no-query: '.no-mq') {
+      float: left;
+      width: 55%;
+      padding: 1em 2em;
+    }
+    h3 {
+          margin: 0.2em 0 .35em;
+    font-size: 1.5em;
+      font-weight: 700;
+    }
+  }
+
+}

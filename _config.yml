@@ -1,0 +1,59 @@
+# Site settings
+title: Break Open
+email: michaeldmcqueen@gmail.com
+description: 
+baseurl: "http://mentalhealthfestival.com" # the subpath of your site, e.g. /blog/
+url: "http://mentalhealthfestival.com" # the base hostname & protocol for your site
+timezone: America/Denver
+
+# Site Author(s)
+author:
+  name: Michael McQueen
+  email: michaeldmcqueen@gmail.com
+
+
+# Build settings
+highlighter: pygments
+markdown: kramdown
+kramdown:
+  auto_ids: true
+  toc_levels: 1..6
+
+
+# Permalinks
+permalink: /blog/:year-:month-:day/:title/
+
+#Collections
+collections:
+  schedule:
+    output: true
+    permalink: /schedule/:title/
+#Defaults
+defaults:
+  -
+    scope:
+      type: "schedule"
+    values:
+      layout: "schedule"
+# Blog Settings
+paginate: 3
+paginate_path: "/blog/page:num/"
+
+# Reading Time Feature
+reading_time:     true
+words_per_minute: 200
+
+# Disqus Comments
+disqus_short_name: 
+disqus_show_comment_count: 
+
+# typekit
+typekit: "scq1rha"
+
+# Social Media
+facebook: 
+
+# Google Analytics
+google_analytics_tracking_id: "UA-77908478-2"
+
+exclude: ["vendor","node_modules","package.json","Gemfile","gulpfile.js","*.scss"]

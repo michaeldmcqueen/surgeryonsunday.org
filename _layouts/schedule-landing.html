@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<h1 class="pagetitle">{{ page.title }}</h1>
+<main class="subpage schedule">
+  <p class="subpage-intro">{{ page.subtitle }}</p>
+  <section class="content-wrapper wrap">
+    {% assign sorted_events = (site.schedule | sort: 'time') %}
+    {% for item in sorted_events %}
+    <div class="schedule-teaser">
+      <div class="event-details">
+        <h4 class="event-time">{{ item.time }}</h4>
+        <h6 class="event-venue">{{ item.venue }}</h6>
+      </div>
+      <div class="event-image">
+        <img src="{{ item.artist_image_path }}" >
+      </div>
+      <div class="event-info">
+          <h3>{{ item.title }}</h3>
+          <p>{{ item.description | truncatewords:25 }}</p>
+      </div>
+    </div>
+   {% endfor %}
+  </section>
+</main>
