@@ -1,9 +1,9 @@
 # Site settings
-title: Break Open
+title: Surgery on Sunday
 email: michaeldmcqueen@gmail.com
-description: 
-baseurl: "http://mentalhealthfestival.com" # the subpath of your site, e.g. /blog/
-url: "http://mentalhealthfestival.com" # the base hostname & protocol for your site
+description: "Surgery on Sunday, Inc. works closely with community partners to provide essential outpatient surgical procedures to income-eligible individuals. Patients are referred to Surgery on Sunday, Inc. by numerous partner agencies."
+baseurl: "http://surgeryonsunday.org" # the subpath of your site, e.g. /blog/
+url: "http://surgeryonsunday.org" # the base hostname & protocol for your site
 timezone: America/Denver
 
 # Site Author(s)

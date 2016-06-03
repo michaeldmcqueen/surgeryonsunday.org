@@ -1,23 +1,13 @@
 ---
 layout: default
 ---
-<main>
-  <div class="preface">
-    <div class="intro">
-    <h1 class="pagetitle">A Mental Health Music, Arts, and Film Festival</h1>
-    <div class="date-time">
-      <h4>OCTOBER 14 & 15</h4>
-      <h4 class="show-location">Fort Collins, CO</h4>
-    </div>
-  </div>
-  </div>
-    <section class="content-wrapper wrap">
-      <div class="welcome-block editable">
-        <p>The Mental Health Festival aims to challenge perceptions, support art, and introduce tools and resources, all the while entertaining with cutting edge programing. The experience will take place through workshops, films, live music, comedy and more. Slated for October 14 & 15, events will occur at various venues in Fort Collins.</p>
-        <a href="/about" class="link">Learn More</a>
-      </div>
-      <div class="welcome-block-image editable">
-        <img src="{{ page.spot_image_path }}" alt="">
-      </div>
-    </section>
-</main>
+<div class="preface">
+
+</div>
+
+<div class="content-wrapper wrap">
+  <main>
+  <h1 class="pagetitle">{{ page.title }}</h1>
+  {{ content }}
+  </main>
+</div>

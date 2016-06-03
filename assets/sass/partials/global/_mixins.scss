@@ -64,8 +64,3 @@
   -o-transition: $element $effect $duration;
   transition: $element $effect $duration;
 }
-
-@mixin heading-style {
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-}
