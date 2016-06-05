@@ -1,6 +1,14 @@
-- text: Schedule
-  url: /schedule/
-- text: About
+- text: About Us
   url: /about/
+  subitems:
+    - text: Financials
+      url: /about/financials/
+    - text: FAQ
+      url: /about/faq/
+- text: I Need Help
+  url: /i-need-help
+  subitems:
+    - text: Types of Surgeries
+      url: /i-need-help/types-of-surgeries/
 - text: Contact
   url: /contact/
