@@ -1,0 +1,13 @@
+<div class="staff-teaser">
+  {% for person in site.staff %}
+    <div class="section-one">
+      <img src="{{ person.headshot_image_path }}" title="{{ person.name }}" alt="{{ person.name }}"/>
+    </div>
+    <div class="section-one">
+      <h3>{{ person.name }}</h3>
+      <h6 class="staff-position">{{ person.position }}</h6>
+      <a href="mailto@{{person.email}}">{{ person.email }}</a>
+      {{ person.content }}
+    </div>
+  {% endfor %}
+</div>

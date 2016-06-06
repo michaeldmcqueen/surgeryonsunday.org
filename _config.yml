@@ -25,16 +25,14 @@ permalink: /blog/:year-:month-:day/:title/
 
 #Collections
 collections:
-  schedule:
-    output: true
-    permalink: /schedule/:title/
+  staff:
+    output: false
 #Defaults
-defaults:
-  -
-    scope:
-      type: "schedule"
-    values:
-      layout: "schedule"
+# defaults:
+#   -
+#     scope:
+#       type: "staff"
+
 # Blog Settings
 paginate: 3
 paginate_path: "/blog/page:num/"

@@ -5,6 +5,8 @@
       url: /about/financials/
     - text: FAQ
       url: /about/faq/
+    - text: Leadership
+      url: /leadership/
 - text: I Need Help
   url: /i-need-help
   subitems:
