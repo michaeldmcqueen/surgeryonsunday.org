@@ -1,6 +1,19 @@
 - question: What type of procedures does Surgery on Sunday provide?
-  answer: "Surgery on Sunday provides any medically necessary outpatient procedure.  The most common surgeries are: gallbladder removal, hernia repair, tonsillectomies, mass excision, cataract removal, circumcisions, orthopedic (carpal tunnel release, ACL, rotator cuff repair) and colonoscopies, among others."
+  answer: 'Surgery on Sunday provides any medically necessary outpatient procedure.  The most common surgeries are: gallbladder removal, hernia repair, tonsillectomies, mass excision, cataract removal, circumcisions, orthopedic (carpal tunnel release, ACL, rotator cuff repair) and colonoscopies, among others.'
 - question: Does Surgery on Sunday provide excess skin removal?
-  answer: "No. This procedure is deemed cosmetic and we do not offer any cosmetic procedure, only those procedures that are deemed medically necessary. We look to rid the patient of pain and disease."
+  answer: 'No. This procedure is deemed cosmetic and we do not offer any cosmetic procedure, only those procedures that are deemed medically necessary. We look to rid the patient of pain and disease.'
 - question: Can you self-refer to be considered for the program?
-  answer: "No. Patients must be referred by a medical professional and have a primary care physician they see on a regular basis.  If you do not have a primary care physician, please refer to the list of free clinics (link to other page)."
+  answer: 'No. Patients must be referred by a medical professional and have a primary care physician they see on a regular basis.  If you do not have a primary care physician, please refer to the list of free clinics (link to other page).'
+- question: What are the qualifications to be considered for Surgery on Sunday?
+  answer: |-
+    Income is 250% of the Federal Poverty Guidelines.  Click here to see chart.
+    Uninsured OR
+    Have a high deductible plan that is 10% or more of household income
+    Live within 250 mile radius of Lexington, Kentucky
+    Body Mass Index (BMI) is 35 or lower.  Click here to calculate your BMI. http://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm
+- question: Where must I reside in order to qualify for services?
+  answer: 'An individual must live within a 250 mile radius of Lexington, Kentucky.  This is in order to ensure a patient receives appropriate post-operative care.  Occasionally, the medical review Committee will consider requests outside of the 250 mile radius on a very limited basis.  The final decision rests with the review committee as well as the surgeon.'
+- question: My Body Mass Index (BMI) is over 35.  Why do I not qualify for the program?
+  answer: 'All surgeries are provided in an outpatient setting and we set a limit of a BMI of 35 to ensure safety during anesthesia.  On a limited basis, we will review patient requests for those slightly over 35 if they do not have sleep apnea or blood pressure issues.  The decision rests slowly with the anesthesia supervisor.'
+- question: Does Surgery on Sunday provide dental services?
+  answer: 'We provide limited oral surgery, which is usually partial or full extractions.  We have partnered with local dentists to provide semi-annual Free Dental Days, which are tentatively planned for October 2016 and April 2017.  However, we do not provide any regular dental services other than the partial or full extractions.  Please note we do not provide dentures following extractions.  The University of Kentucky Dental Clinic does provide dentures at a discounted cost.  They can be reached at 859.323.5992.'
