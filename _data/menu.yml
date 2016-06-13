@@ -6,7 +6,9 @@
     - text: FAQ
       url: /about/faq/
     - text: Leadership
-      url: /leadership/
+      url: /about/leadership/
+    - text: Board of Directors
+      url: /about/board-of-directors/
 - text: I Need Help
   url: /i-need-help
   subitems:

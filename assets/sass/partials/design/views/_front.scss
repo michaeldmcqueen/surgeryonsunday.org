@@ -1,0 +1,16 @@
+.front-blocks {
+  background: #fff;
+  @include clearfix;
+  padding: 0;
+  box-shadow: 0 0 5px rgba(0,0,0,0.3);
+  @include breakpoint($tablet, $no-query:'.no-mq') {
+    display: inline-block;
+    width: 30%;
+    margin: 0 1.5%;
+    vertical-align: top;
+
+  }
+  .front-block-content {
+    padding: 1em 2em;
+  }
+}

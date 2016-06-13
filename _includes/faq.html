@@ -1,0 +1,8 @@
+{% for item in include.faq %}
+<div class="faq">    
+  <h4>{{ item.question }}</h4>
+  <div class="answer">
+    {{ item.answer }}
+  </div>
+</div>
+{% endfor %}

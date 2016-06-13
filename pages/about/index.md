@@ -3,7 +3,7 @@ layout: page
 permalink: /about/
 title: About Us
 subtitle: A Quest for self discovery.
-header_image_path:
+header_image_path: https://source.unsplash.com/random/1500x500/
 ---
 Surgery on Sunday is a non-profit that provides essential outpatient procedures at no cost to income eligible individuals who are either uninsured or underinsured and do not qualify for federal or state assistance. It is the first program of its kind in the United States.
 

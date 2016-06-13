@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /leadership/
+permalink: /about/leadership/
 title: Leadership
 header_image_path:
 ---

@@ -11,11 +11,14 @@ $(document).ready(function() {
   //       $('.menu').toggleClass('show');
   //   });
 
-
-  $('.hamburger-menu').on('click', function() {
-      $('.bar').toggleClass('animate');
-      $('.menu').toggleClass('show');
+  $('.js nav ul').addClass('hide');
+  $(".hamburger-menu").click(function(){
+        $(".js nav ul").toggleClass('hide');
+        $(".hamburger-menu").toggleClass('close');
     });
 
+  $('.hamburger-menu').on('click', function() {
+    $('.bar').toggleClass('animate');
+  })
 
 });

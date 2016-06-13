@@ -1,0 +1,14 @@
+<div class="bod">
+  {% for person in site.staff %}
+  {% if person.bod == true %}
+    <div class="section-one">
+      <img src="{{ person.headshot_image_path }}" title="{{ person.name }}" alt="{{ person.name }}"/>
+    </div>
+    <div class="section-one">
+      <h3>{{ person.name }}</h3>
+      <h6 class="staff-position">{{ person.position }}</h6>
+    </div>
+    {% endif %}
+  {% endfor %}
+</div>
+
