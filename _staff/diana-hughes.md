@@ -1,5 +1,7 @@
 ---
-name: Paul A. Kearney, MD
-position: Chair
+name: 'Diana Hughes, CPA'
+position: Secretary
 bod: true
 ---
+
+
