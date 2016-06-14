@@ -2,7 +2,6 @@ nav {
   font-family: $heading-font-family;
   padding: 0em 0em 0; 
   font-size: 110%;
-  text-align: right;
   @include breakpoint($tablet, $no-query: '.no-mq') {
     font-size: 110%;  
   }

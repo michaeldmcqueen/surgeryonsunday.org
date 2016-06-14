@@ -27,6 +27,8 @@ permalink: /blog/:year-:month-:day/:title/
 collections:
   staff:
     output: false
+  faq:
+    output: false
 #Defaults
 # defaults:
 #   -

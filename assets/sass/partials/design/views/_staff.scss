@@ -1,0 +1,30 @@
+.staff-teaser-list {
+  padding-top: 2em;
+}
+.staff-teaser {
+  @include clearfix;
+  padding-bottom: 2em;
+  .section-one {
+    @include breakpoint($tablet, $no-query: '.no-mq') { 
+      float: left;
+      width: 30%;
+      padding-right: 2em;
+      max-width: 250px;
+    }
+  }
+  .section-two {
+    overflow:hidden;
+  }
+  .staff-name {
+    margin: 0;
+  }
+  .staff-position {
+    margin-top: .3em;
+    font-weight: normal;
+    font-size: 1.2em;
+  }
+  .staff-email {
+    display: inline-block;
+    padding-bottom: 1em;
+  }
+}

@@ -33,7 +33,7 @@ header.site-header {
 
 .main-nav {
   @include breakpoint($tablet, $no-query: ".no-mq") {
-  @include grid-span(8,5);
+  @include grid-span(9.5,3.5);
     padding-top: 3.4em;
   }
 }

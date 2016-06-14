@@ -14,5 +14,15 @@
   subitems:
     - text: Types of Surgeries
       url: /i-need-help/types-of-surgeries/
+    - text: Free Clinics
+      url: /i-need-help/free-clinics/
+- text: Media
+  url: /media/
+- text: Community Resources
+  url: /community-resources/
+- text: Volunteer
+  url: /volunteer/
+- text: Donate
+  url: /donate/
 - text: Contact
   url: /contact/

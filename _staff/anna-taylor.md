@@ -3,6 +3,7 @@ name: Anna L. Taylor, MBA
 position: Executive Director
 email: anna@sugeryonsunday.org
 headshot_image_path: https://source.unsplash.com/random/400x400/
+bod: false
 ---
 Anna was named Executive Director in April 2015.  She is responsible for the day-to-day operations and administration of Surgery on Sunday, including outreach, marketing, processing referrals, volunteer credentialing and fundraising, among others. 
 

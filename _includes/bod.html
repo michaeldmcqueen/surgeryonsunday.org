@@ -1,14 +1,17 @@
-<div class="bod">
+<div class="staff-teaser-list">
   {% for person in site.staff %}
-  {% if person.bod == true %}
-    <div class="section-one">
-      <img src="{{ person.headshot_image_path }}" title="{{ person.name }}" alt="{{ person.name }}"/>
-    </div>
-    <div class="section-one">
-      <h3>{{ person.name }}</h3>
-      <h6 class="staff-position">{{ person.position }}</h6>
+  <div class="staff-teaser">
+    {% if person.bod == true %}
+      <div class="section-one">
+        <img src="{{ person.headshot_image_path }}" title="{{ person.name }}" alt="{{ person.name }}"/>
+      </div>
+      <div class="section-two">
+        <h3 class="staff-name">{{ person.name }}</h3>
+        <h6 class="staff-position">{{ person.position }}</h6>
+        <a href="mailto@{{person.email}}" class="staff-email">{{ person.email }}</a>
+        {{ person.content }}
+      </div>
     </div>
     {% endif %}
   {% endfor %}
 </div>
-
