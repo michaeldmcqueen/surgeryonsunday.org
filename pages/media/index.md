@@ -9,6 +9,8 @@ title: Media
 
 <div class="embed-container"><iframe src="https://www.youtube.com/embed/rRUW10Lbw_M" frameborder="0" allowfullscreen=""></iframe></div>
 
+##### &nbsp;
+
 ##### [Surgery on Sunday cares for 15 patients](http://www.kentucky.com/news/local/counties/fayette-county/article68609277.html)
 
 &nbsp;
