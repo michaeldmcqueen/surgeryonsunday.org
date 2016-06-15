@@ -2,7 +2,7 @@
 layout: page
 permalink: /about/faq/
 title: Frequently Asked Questions
-header_image_path:
+header_image_path: /uploads/header-images/faq.jpg
 ---
 Surgery on Sunday is thankful to have many supporters who provide financial support and in-kind donations.  These donations enable Surgery on Sunday to operate on a very tight budget, spending 88% of our expenses on direct patient care and allowing us to provide surgeries at an average cost of $300.
 

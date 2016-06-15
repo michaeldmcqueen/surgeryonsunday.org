@@ -2,7 +2,7 @@
 layout: page
 permalink: /i-need-help/free-clinics/
 title: Free Clinics
-header_image_path:
+header_image_path: /uploads/header-images/faq.jpg
 ---
 
 

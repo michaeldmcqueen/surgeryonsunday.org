@@ -2,7 +2,7 @@
 layout: page
 permalink: /i-need-help/types-of-surgeries/
 title: Types of Surgeries
-header_image_path:
+header_image_path: /uploads/header-images/types.jpg
 ---
 
 

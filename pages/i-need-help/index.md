@@ -2,7 +2,7 @@
 layout: page
 permalink: /i-need-help/
 title: I Need Help
-header_image_path:
+header_image_path: /uploads/header-images/need-help.jpg
 ---
 Surgery on Sunday’s mission is to change lives one surgery at a time.  Our program assists uninsured and underinsured, income eligible individuals who do not qualify for federal or state government assistance. Outpatient surgeries are provided the third Sunday of each month at no cost to individuals that qualify for Surgery on Sunday.
 

@@ -1,7 +1,8 @@
 <div class="staff-teaser-list">
   {% for person in site.staff %}
+  {% if person.bod == false %}
   <div class="staff-teaser">
-    {% if person.bod == false %}
+    
       <div class="section-one">
         <img src="{{ person.headshot_image_path }}" title="{{ person.name }}" alt="{{ person.name }}"/>
       </div>
