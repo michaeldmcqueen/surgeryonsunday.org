@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /about/Awar/
+permalink: /about/Award/
 title: Awards
 header_image_path: /uploads/header-images/team.jpg
 ---
@@ -32,7 +32,7 @@ United Way of the Bluegrass Non Profit of the Year Award, 2007
 
 Have provided nearly 5,700 individuals with surgery at no cost
 
-<br>&nbsp;
+<br>
 
 Funders/Community Partners (Logos in photo file)
 
