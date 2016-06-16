@@ -7,6 +7,13 @@
 footer {
   font-size: 95%;
   margin: 0 auto;
+  color: #B8B8B8;
+  padding: 3em 1em;
+  text-align: center;
+  @include clearfix;
+  @include breakpoint($tablet, $no-query: '.no-mq') {
+   text-align: left;
+  }
   .left {
     a {
       display: inline-block;
@@ -23,4 +30,60 @@ footer {
         text-align: right;
     }
   }
+}
+
+
+.footer-block {
+  padding: 0 0 2em;
+  h3 {
+    color: #B8B8B8;
+  }
+  img {
+    display: block;
+    margin: 0 auto 2em;
+    max-height: 120px;
+  }
+  a {
+    color: #B8B8B8;
+    text-decoration: none;
+  }
+}
+
+.footer-block-1 {
+  // @include breakpoint($tablet, $no-query: '.no-mq') {
+  //     @include grid-span(5, 1, $gutter: 0);
+  //     clear: both;
+  //   }
+    @include breakpoint($desktop, $no-query: '.no-mq') {
+      @include grid-span(3, 1, $gutter: 0);
+    }
+}
+
+.footer-block-2 {
+  // @include breakpoint($tablet, $no-query: '.no-mq') {
+  //     @include grid-span(5, 7, $gutter: 0);
+  //     clear: both;
+  //   }
+    @include breakpoint($desktop, $no-query: '.no-mq') {
+      @include grid-span(2, 5, $gutter: 0);
+    }
+}
+
+.footer-block-3 {
+  // @include breakpoint($tablet, $no-query: '.no-mq') {
+  //     @include grid-span(5, 7, $gutter: 0);
+  //     clear: both;
+  //   }
+  @include breakpoint($desktop, $no-query: '.no-mq') {
+      @include grid-span(2.5, 7.5, $gutter: 0);
+    }
+}
+.footer-block-4 {
+  // @include breakpoint($tablet, $no-query: '.no-mq') {
+  //     @include grid-span(5, 7, $gutter: 0);
+  //     clear: both;
+  //   }
+  @include breakpoint($desktop, $no-query: '.no-mq') {
+      @include grid-span(3, 10, $gutter: 0);
+    }
 }

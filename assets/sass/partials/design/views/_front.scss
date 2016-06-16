@@ -14,3 +14,27 @@
     padding: 0em 2em 1em;
   }
 }
+
+.front-postscript {
+  background:#fff;
+  text-align: center;
+  padding: 3em 1em;
+  .sponsor-wrap {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  h2 {
+    text-transform: uppercase;
+    font-size: 20px;
+    color: #8F8F8F;
+    letter-spacing: 1.59px;
+    margin-bottom: 2em;
+  }
+  img {
+    height: 100px;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 1.5em 0;
+    margin: 0 1.5em .5em;
+  }
+}
