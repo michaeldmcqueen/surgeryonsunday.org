@@ -6,7 +6,7 @@ header_image_path: /uploads/header-images/team.jpg
 ---
 
 
-AWARDS
+&nbsp;
 
 Accomplishments, achievements and accreditations:
 
@@ -32,30 +32,6 @@ United Way of the Bluegrass Non Profit of the Year Award, 2007
 
 Have provided nearly 5,700 individuals with surgery at no cost
 
-<br>
+&nbsp;
 
-Funders/Community Partners (Logos in photo file)
-
-Lexington Diagnostic Center
-
-KentuckyOne Health
-
-Lexington Medical Society
-
-Lexington Surgery Center
-
-Bank of Lexington
-
-Kentucky Colonels
-
-Good Samaritan Foundation
-
-Berea College Appalachian Fund
-
-Toyota Motor Manufacturing
-
-Sturgill, Turner, Barker & Moloney, PLLC
-
-Rotary Club of Lexington
-
-Hisle & Company, Certified Public Accountants (no logo, just black text)
+&nbsp;
