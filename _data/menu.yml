@@ -9,6 +9,8 @@
       url: /about/leadership/
     - text: Board of Directors
       url: /about/board-of-directors/
+    - text: Awards
+      url: /about/awards/
 - text: I Need Help
   url: /i-need-help
   subitems:
@@ -20,8 +22,14 @@
   url: /media/
 - text: Community Resources
   url: /community-resources/
+  subitems:
+  - text: Community Partners
+    url: /about/community-partners/
 - text: Volunteer
   url: /volunteer/
+  subitems:
+    - text: Volunteer FAQ
+      url: /volunteer/FAQ/
 - text: Donate
   url: /donate/
 - text: Contact

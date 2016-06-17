@@ -7,6 +7,7 @@
 
 main {
   @include clearfix;
+  display: block;
 }
 
 
@@ -20,5 +21,5 @@ main {
 }
 
 .preface {
-  padding: 2em 0;
+  padding: 3em 0;
 }
