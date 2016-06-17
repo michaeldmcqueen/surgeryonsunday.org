@@ -6,9 +6,6 @@ subtitle: A Quest for self discovery.
 header_image_path: /uploads/header-images/team.jpg
 ---
 
-
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.youtube.com/embed/QILiHiTD3uc' frameborder='0' allowfullscreen></iframe></div>
-
 Surgery on Sunday is a non-profit that provides essential outpatient procedures at no cost to income eligible individuals who are either uninsured or underinsured and do not qualify for federal or state assistance. It is the first program of its kind in the United States.
 
 The program was a longtime dream of Lexington plastic surgeon, Dr. Andrew Moore, II. In his nearly 40 years of service, Dr. Moore and his brothers had helped numerous individuals who “fell between the cracks” of services currently available. Individuals who made just enough to disqualify them from assistance, yet didn’t make enough for surgery to be financially viable. In the early years of his career, providing free surgical services was as simple as calling the hospital and asking them to forgive the expense to the patient. As the healthcare environment changed, the ability to do this type of surgeries vanished.
