@@ -7,7 +7,7 @@ header_image_path: /uploads/header-images/team.jpg
 ---
 
 
-&lt;style&gt;.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }&lt;/style&gt;&lt;div class='embed-container'&gt;&lt;iframe src='http://www.youtube.com/embed/QILiHiTD3uc' frameborder='0' allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.youtube.com/embed/QILiHiTD3uc' frameborder='0' allowfullscreen></iframe></div>
 
 Surgery on Sunday is a non-profit that provides essential outpatient procedures at no cost to income eligible individuals who are either uninsured or underinsured and do not qualify for federal or state assistance. It is the first program of its kind in the United States.
 
