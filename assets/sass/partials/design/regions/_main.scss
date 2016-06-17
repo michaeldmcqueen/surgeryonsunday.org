@@ -8,13 +8,21 @@
 main {
   @include clearfix;
   display: block;
+  @include breakpoint($tablet, $no-query: ".no-mq") {
+     @include grid-span(8,1);
+  }
 }
-
+.sidebar {
+  @include breakpoint($tablet, $no-query: ".no-mq") {
+     @include grid-span(4,9);
+  }
+}
 
 .content-wrapper {
   background: #fff;
   box-shadow: 0 0 5px rgba(0,0,0,0.3);
   padding: 2em 1em;
+  @include clearfix;
   @include breakpoint($tablet, $no-query: ".no-mq") {
     padding: 2em;
   }
