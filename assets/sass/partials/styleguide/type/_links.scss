@@ -41,3 +41,13 @@ div.btn {
   text-decoration: none;
   font-weight: 700;
 }
+
+a.btn {
+  display: inline-block;
+  background: $link;;
+  color: #fff;
+  padding: .5em 2em;
+  font-size: 0.9em;
+  text-decoration: none;
+  border-radius: 3px;
+}

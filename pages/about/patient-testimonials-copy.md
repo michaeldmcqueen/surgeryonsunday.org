@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /about/FundersCommunity Partners/
+permalink: /about/community-partners/
 title: Funders/Community Partners
 header_image_path: /uploads/header-images/team.jpg
 ---

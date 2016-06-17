@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /about/Award/
+permalink: /about/awards/
 title: Awards
 header_image_path: /uploads/header-images/team.jpg
 ---

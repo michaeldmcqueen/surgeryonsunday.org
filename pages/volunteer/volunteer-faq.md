@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /volunteerFAQ/
+permalink: /volunteer/FAQ/
 title: Volunteer FAQ
 header_image_path: /uploads/home/home-header.jpg
 ---
