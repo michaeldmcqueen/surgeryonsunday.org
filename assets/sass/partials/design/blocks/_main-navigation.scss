@@ -27,8 +27,9 @@ nav {
         width: 200px;
         box-shadow: 1px 1px 4px rgba(0,0,0,.5);
         li {
-          padding: .5em 1.25em;
+          padding: 0;
           a {
+            padding: .5em 1.25em;
             display: block;
             color: $color-one;
           }
@@ -91,9 +92,11 @@ nav {
     text-decoration: none;
     color: #fff;
     &.active {
-      color: #fff;
+      font-weight: 700;
       @include breakpoint($desktop, $no-query: '.no-mq') {
-        //border-bottom: 2px solid #fff;
+        background: $color-one;
+        color: #fff;
+        font-weight: normal;
       }
     }
   }
