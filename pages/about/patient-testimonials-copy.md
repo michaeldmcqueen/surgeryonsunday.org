@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/community-partners/
-title: Funders/Community Partners
+title: 'Funders & Community Partners'
 header_image_path: /uploads/header-images/team.jpg
 ---
 
