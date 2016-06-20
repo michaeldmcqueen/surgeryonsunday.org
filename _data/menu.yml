@@ -1,16 +1,18 @@
 - text: About Us
   url: /about/
   subitems:
-    - text: Financials
-      url: /about/financials/
-    - text: FAQ
-      url: /about/faq/
-    - text: Leadership
-      url: /about/leadership/
-    - text: Board of Directors
-      url: /about/board-of-directors/
     - text: Awards
       url: /about/awards/
+    - text: Board of Directors
+      url: /about/board-of-directors/
+    - text: FAQ
+      url: /about/faq/
+    - text: Financials
+      url: /about/financials/
+    - text: Leadership
+      url: /about/leadership/
+    - text: Patient Testimonials
+      url: /about/patient-testimonials/
 - text: I Need Help
   url: /i-need-help
   subitems:
@@ -23,8 +25,8 @@
 - text: Community Resources
   url: /community-resources/
   subitems:
-  - text: Community Partners
-    url: /about/community-partners/
+    - text: Community Partners
+      url: /about/community-partners/
 - text: Volunteer
   url: /volunteer/
   subitems:
