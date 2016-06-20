@@ -18,46 +18,29 @@ header_image_path: /uploads/header-images/team.jpg
 *"My son was lucky enough to receive surgery through Surgery on Sunday. &nbsp;His conditions were diagnosed in 2005 and 2008 at two different sliding scale clinics. &nbsp;He was disabled and in pain. &nbsp;One doctor told him that if his hernia became strangulated, it would be life threatening, but there was nowhere to turn for help. &nbsp;That was until we were introduced to Surgery on Sunday. &nbsp;Everyone treated my son, and our family, like gold. We felt the kindness in your hearts and the caring in your eyes. &nbsp;You’ve shown us what the world can be like when there is love. You all have rekindled hope. We are not alone. We have been touched by the angels of SOS."*&nbsp;
 <br>**- Sharon G., patient’s mother**
 
-Thank you for providing the recent opportunity for me to receive a diagnostic endoscopy. &nbsp;As a survivor of colon cancer, I am fully aware of the importance of a periodic follow-up colonoscopy. &nbsp;But given my present fiscal situation and the cost of the procedure, I’d have to put it off indefinitely. &nbsp;Thank you all very much! &nbsp;Patient Josh O.
+*"Thank you for providing the recent opportunity for me to receive a diagnostic endoscopy. &nbsp;As a survivor of colon cancer, I am fully aware of the importance of a periodic follow-up colonoscopy. &nbsp;But given my present fiscal situation and the cost of the procedure, I’d have to put it off indefinitely. &nbsp;Thank you all very much!"*&nbsp;
+<br>**- Patient Josh O.**
 
-We would like to thank the Surgery on Sunday program and all the volunteers involved for accepting our son for gallbladder surgery. &nbsp;Everyone we came into contact with there was so amazingly nice to our family and our son was in greats hands from start to finish. &nbsp;Special thanks, of course, to Dr. Iocono for his excellent surgical skill and the ideas to get us into the program in the first place. &nbsp;We could not have asked for a better outcome. There really aren’t enough ways to thank everyone for the kindness and caring we experienced during our time of need for our son. &nbsp;Heather G, patient’s mother
+*"We would like to thank the Surgery on Sunday program and all the volunteers involved for accepting our son for gallbladder surgery. &nbsp;Everyone we came into contact with there was so amazingly nice to our family and our son was in greats hands from start to finish. &nbsp;Special thanks, of course, to Dr. Iocono for his excellent surgical skill and the ideas to get us into the program in the first place. &nbsp;We could not have asked for a better outcome. There really aren’t enough ways to thank everyone for the kindness and caring we experienced during our time of need for our son."&nbsp;*
+<br>**- Heather G, patient’s mother**
 
-Thank you for taking your time away from your family and friends to help me through a tough, painful time. It means everything to me and my family! &nbsp;Patient Kimberly S.
+*"Thank you for taking your time away from your family and friends to help me through a tough, painful time. It means everything to me and my family!"*&nbsp;
+<br>**- Patient Kimberly S.**
 
-Special thanks, of course, to Dr. Iocono for his excellent surgical skill and the ideas to get us into the program in the first place. &nbsp;We could not have asked for a better outcome. There really aren’t enough ways to thank everyone for the kindness and caring we experienced during our time of need for our son. &nbsp;Heather G, patient’s mother
+*"Special thanks, of course, to Dr. Iocono for his excellent surgical skill and the ideas to get us into the program in the first place. &nbsp;We could not have asked for a better outcome. There really aren’t enough ways to thank everyone for the kindness and caring we experienced during our time of need for our son."*
+<br>**- Heather G, patient’s mother**
 
-Thank you for taking your time away from your family and friends to help me through a tough, painful time. It means everything to me and my family! &nbsp;Patient Kimberly S.
+*"Thank you for taking your time away from your family and friends to help me through a tough, painful time. It means everything to me and my family!"*&nbsp;
+<br>**- Patient Kimberly S.**
 
-<br>&nbsp;
+*"I have had 2 surgeries on my wrist and both have been done by Surgery on Sunday. It is a wonderful place and the doctors and all the staff that are there are great. The most wonderful thing that these people have done. &nbsp;I don't know how to say thank you for all that you have done."&nbsp;*
+<br>**- Patient Mashana E.**
 
-I have had 2 surgeries on my wrist and both have been done by Surgery on Sunday. It is a wonderful place and the doctors and all the staff that are there are great. The most wonderful thing that these people have done. &nbsp;I don't know how to say thank you for all that you have done. Patient Mashana E.
+*"My gratitude is twofold: First, when I visited Dr. Moore’s office, you identified a blood pressure problem that I was not aware I had. Although I had visited the Clinic, twice, they somehow missed this entirely. After visiting your office, I learned that it was, in fact, dangerously high. That led me to the Georgetown Hospital’s Medical Mission in Georgetown. Thanks to you, and in no small part to them, my blood pressure is now nicely under control. Second, but most importantly, you removed the growth I had been most worried about. What I had assumed (wrongly) would be a short visit to a room where I would get a couple of shots and a little minor surgery, turned into a morning-long process where I was given the utmost care and attention. I was overwhelmed at the way you, your surgical staff and volunteers literally poured out their welcome, their attention, and good will upon me.*
 
-Patient Sharon H.
+*I do recall someone asking me if I“ worry.” I know there must be thousands of people, just like me, who worry because we cannot afford health insurance, and thus, go without necessary care. It is people like you and your volunteers who are really making a difference in the lives of people like me. May you never lose that desire to serve your fellow Kentuckians. I know your efforts have relieved some of my worry. I have had various people ask me about my bandage and I have been so happy to tell my story about Surgery on Sunday and your efforts on my behalf.*
 
-My gratitude is twofold: First, when I visited Dr. Moore’s office, you identified a blood pressure problem that I was not aware I had. Although I had visited the Clinic, twice, they somehow missed this entirely. After visiting your office, I learned that it was,
+*Every morning, I now rise to see that the growth is gone from my face. It feels like such a gift for which I will always be grateful. I find myself smiling more often these days.*
 
-in fact, dangerously high. That led me to the Georgetown Hospital’s Medical Mission in
-
-Georgetown. Thanks to you, and in no small part to them, my blood pressure is now
-
-nicely under control.
-
-Second, but most importantly, you removed the growth I had been most worried about.
-
-What I had assumed (wrongly) would be a short visit to a room where I would get a
-
-couple of shots and a little minor surgery, turned into a morning-long process where I
-
-was given the utmost care and attention. I was overwhelmed at the way you, your
-
-surgical staff and volunteers literally poured out their welcome, their attention, and
-
-good will upon me.
-
-I do recall someone asking me if I“ worry.” I know there must be thousands of people, just like me, who worry because we cannot afford health insurance, and thus, go without necessary care. It is people like you and your volunteers who are really making a difference in the lives of people like me. May you never lose that desire to serve your fellow Kentuckians. I know your efforts have relieved some of my worry. I have had various people ask me about my bandage and I have been so happy to tell my story about Surgery on Sunday and your efforts on my behalf.
-
-Every morning, I now rise to see that the growth is gone from my face. It feels like such
-
-a gift for which I will always be grateful. I find myself smiling more often these days.
-
-My scar will be a reminder that I should always be prepared to pass on goodwill, either by kind word or deed, to someone else who may need it.
+*My scar will be a reminder that I should always be prepared to pass on goodwill, either by kind word or deed, to someone else who may need it."*
+<br>**- Patient Sharon H.**
