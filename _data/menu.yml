@@ -26,9 +26,6 @@
   url: /media/
 - text: Community Resources
   url: /community-resources/
-  subitems:
-    - text:
-      url:
 - text: Volunteer
   url: /volunteer/
   subitems:

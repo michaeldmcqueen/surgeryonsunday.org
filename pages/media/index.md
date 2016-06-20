@@ -13,20 +13,18 @@ title: Media
 
 ##### [Sunday offering: Surgery for the needy](http://www.cnn.com/2010/HEALTH/03/04/cnnheroes.sunday.surgery/)
 
-##### [Ky doctor is champion for the working poor](http://www.courier-journal.com/story/life/wellness/health/2015/09/17/ky-doctor-champion-working-poor/72270810/)
+##### [KY doctor is champion for the working poor](http://www.courier-journal.com/story/life/wellness/health/2015/09/17/ky-doctor-champion-working-poor/72270810/)
 
-&nbsp;
+##### [Surgery on Sunday Doctors Give Free Health Care to the Uninsured](http://abcnews.go.com/WN/surgery-sunday-doctors-provide-free-surgeries-uninsured-receive/story?id=11180307)
 
-http://abcnews.go.com/WN/surgery-sunday-doctors-provide-free-surgeries-uninsured-receive/story?id=11180307
+##### [Heroes Among Us](http://www.people.com/people/article/0,,20639877,00.html)
 
-http://www.people.com/people/article/0,,20639877,00.html
+##### [Surgery on Sunday volunteers heal the poor and the uninsured](https://www.chausa.org/publications/catholic-health-world/article/october-1-2012/surgery-on-sunday-volunteers-heal-the-poor-and-the-uninsured)
 
-https://www.chausa.org/publications/catholic-health-world/article/october-1-2012/surgery-on-sunday-volunteers-heal-the-poor-and-the-uninsured
+##### [Volunteers come together for Surgery on Sunday free service to needy](http://www.kyforward.com/everyday-heroes-volunteers-come-together-for-surgery-on-sunday-free-service-to-needy/)
 
-http://www.kyforward.com/everyday-heroes-volunteers-come-together-for-surgery-on-sunday-free-service-to-needy/
+##### [Sweating for Surgeries (Endorsed by Coach Cal!)](http://kentuckysportsradio.com/main/sweating-for-surgeries-endorsed-by-coach-cal/)
 
-http://kentuckysportsradio.com/main/sweating-for-surgeries-endorsed-by-coach-cal/
+##### [Surgery on Sunday, Vision of Andrew Moore, II, MD](http://www.lexingtonsurgerycenter.com/AboutUs/SurgeryOnSunday)
 
-http://www.lexingtonsurgerycenter.com/AboutUs/SurgeryOnSunday
-
-https://issuu.com/mentellemedia/docs/md-update_issue_99/32?e=0
+##### [MD Update](https://issuu.com/mentellemedia/docs/md-update_issue_99/32?e=0)
