@@ -2,6 +2,7 @@
 layout: page
 permalink: /media/
 title: Media
+header_image_path: /uploads/header-images/financials.jpg
 ---
 
 
