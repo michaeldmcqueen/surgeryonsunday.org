@@ -5,12 +5,12 @@
       url: /about/awards/
     - text: Board of Directors
       url: /about/board-of-directors/
-    - text: Community Partners
-      url: /about/community-partners/
     - text: FAQ
       url: /about/faq/
     - text: Financials
       url: /about/financials/
+    - text: 'Funders & Community Partners'
+      url: /about/community-partners/
     - text: Leadership
       url: /about/leadership/
     - text: Patient Testimonials
