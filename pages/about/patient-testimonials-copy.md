@@ -6,26 +6,26 @@ header_image_path: /uploads/header-images/team.jpg
 ---
 
 
-[Lexington Diagnostic Center](__notset__)
+[Lexington Diagnostic Center](http://lexingtondiagnostic.com/)
 
-[KentuckyOne Health](__notset__)
+[KentuckyOne Health](http://www.kentuckyonehealth.org/)
 
-[Lexington Medical Society](__notset__)
+[Lexington Medical Society](http://members.kyma.org/scripts/4disapi.dll/4DCGI/index_lms.html?MenuKey=lms)
 
-[Lexington Surgery Center](__notset__)
+[Lexington Surgery Center](http://www.lexingtonsurgerycenter.com/)
 
-[Bank of Lexington](__notset__)
+[Bank of Lexington](https://www.bankoflexington.net/)
 
-[Kentucky Colonels](__notset__)
+[Kentucky Colonels](http://www.kycolonels.org/)
 
-[Good Samaritan Foundation](__notset__)
+[Good Samaritan Foundation](http://www.good-sam.com/foundation)
 
-[Berea College Appalachian Fund](__notset__)
+[Berea College Appalachian Fund](https://www.berea.edu/appalachian-fund/)
 
-[Toyota Motor Manufacturing](__notset__)
+[Toyota Motor Manufacturing](http://www.toyotageorgetown.com/)
 
-[Sturgill, Turner, Barker & Moloney, PLLC](__notset__)
+[Sturgill, Turner, Barker & Moloney, PLLC](http://www.sturgillturner.com/)
 
-[Rotary Club of Lexington](__notset__)
+[Rotary Club of Lexington](http://rotarylexky.org/)
 
-[Hisle & Company, Certified Public Accountants](__notset__)
+[Hisle & Company, Certified Public Accountants](http://www.hisle-cpa.com/)
