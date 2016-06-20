@@ -9,13 +9,11 @@ title: Media
 
 <div class="embed-container"><iframe src="https://www.youtube.com/embed/rRUW10Lbw_M" frameborder="0" allowfullscreen=""></iframe></div>
 
-##### &nbsp;
-
 ##### [Surgery on Sunday cares for 15 patients](http://www.kentucky.com/news/local/counties/fayette-county/article68609277.html)
 
 ##### [Sunday offering: Surgery for the needy](http://www.cnn.com/2010/HEALTH/03/04/cnnheroes.sunday.surgery/)
 
-###### [Ky doctor is champion for the working poor](http://www.courier-journal.com/story/life/wellness/health/2015/09/17/ky-doctor-champion-working-poor/72270810/)
+##### [Ky doctor is champion for the working poor](http://www.courier-journal.com/story/life/wellness/health/2015/09/17/ky-doctor-champion-working-poor/72270810/)
 
 &nbsp;
 
