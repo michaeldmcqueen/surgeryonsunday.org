@@ -9,12 +9,12 @@ main {
   @include clearfix;
   display: block;
   @include breakpoint($tablet, $no-query: ".no-mq") {
-     @include grid-span(8,1);
+     @include grid-span(8.5,1);
   }
 }
 .sidebar {
   @include breakpoint($tablet, $no-query: ".no-mq") {
-     @include grid-span(4,9);
+     @include grid-span(3.5,9.5);
   }
 }
 

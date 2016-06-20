@@ -7,5 +7,32 @@ layout: default
   <h1 class="pagetitle">{{ page.title }}</h1>
   {{ content }}
   </main>
-  <aside class="sidebar"></aside>
+  <aside class="sidebar">
+
+      {% if page.permalink contains "/about" %}
+          {% include subnav.html context="/about/" %}
+      {% endif %}
+
+       {% if page.permalink contains "/donate" %}
+          {% include subnav.html context="/donate/" %}
+      {% endif %}
+
+      {% if page.permalink contains "/i-need-help" %}
+          {% include subnav.html context="/i-need-help/" %}
+      {% endif %}
+
+      {% if page.permalink contains "/media" %}
+          {% include subnav.html context="/media/" %}
+      {% endif %}
+
+      {% if page.permalink contains "/community-resources" %}
+          {% include subnav.html context="/community-resources/" %}
+      {% endif %}
+
+      {% if page.permalink contains "/volunteer" %}
+          {% include subnav.html context="/volunteer/" %}
+      {% endif %}
+
+
+  </aside>
 </div>
