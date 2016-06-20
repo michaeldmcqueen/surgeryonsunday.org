@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /about/ PatientTestimonials/
+permalink: /about/patient-testimonials/
 title: Patient Testimonials
 header_image_path: /uploads/header-images/team.jpg
 ---
