@@ -25,8 +25,8 @@
 - text: Community Resources
   url: /community-resources/
   subitems:
-    - text: Community Partners
-      url: /about/community-partners/
+    - text:
+      url:
 - text: Volunteer
   url: /volunteer/
   subitems:
