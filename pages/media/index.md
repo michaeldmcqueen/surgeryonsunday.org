@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-no-sidebar
 permalink: /media/
 title: Media
 header_image_path: /uploads/header-images/financials.jpg

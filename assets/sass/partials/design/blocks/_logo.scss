@@ -1,6 +1,6 @@
 .logo {
   width: calc(100% - 80px);
-  padding: 1em 1em 3em;
+  padding: 1em 1em;
   @include breakpoint($tablet, $no-query:'.no-mq') {
     padding: 2em 0;
     width: 100%;

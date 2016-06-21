@@ -1,14 +1,17 @@
 ---
-layout: page
+layout: page-no-sidebar
 permalink: /contact/
 title: Contact
 header_image_path: /uploads/header-images/faq.jpg
 ---
-Anna L. Taylor, MBA, Executive Director - anna@surgeryonsunday.org
+Anna L. Taylor, MBA, Executive Director
+anna@surgeryonsunday.org
 
-Shirley P. Ramsey, DNP, APRN, Clinical Director - shirleypramsey@me.com
+Shirley P. Ramsey, DNP, APRN, Clinical Director
+shirleypramsey@me.com
 
-Kim Jones, Volunteer Coordinator - volunteers@surgeryonsunday.org
+Kim Jones, Volunteer Coordinator
+volunteers@surgeryonsunday.org
 
 Mailing Address:
 PO Box 8578
