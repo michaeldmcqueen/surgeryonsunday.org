@@ -34,11 +34,11 @@
     - text: Physician Volunteer Application
       url: /volunteer/physician-volunteers/
     - text: General Student Volunteer Application
-      url: /assets/docs/General_Student_Volunteer_Application_Packet.pdf
+      url: /volunteer/general-student-volunteer/
     - text: Clinical Volunteer Application
       url: /volunteer/clinical-volunteer/
     - text: Certified Medical Interpreter
-      url: /assets/docs/Certified_Medical_Interpreter_Application.pdf
+      url: /volunteer/certified-medical-interpreter/
 - text: Donate
   url: /donate/
 - text: Contact
