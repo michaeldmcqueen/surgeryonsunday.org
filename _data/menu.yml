@@ -32,11 +32,11 @@
     - text: Volunteer FAQ
       url: /volunteer/FAQ/
     - text: Physician Volunteer Application
-      url: /volunteer/physician-volunteers
+      url: /volunteer/physician-volunteers/
     - text: General Student Volunteer Application
       url: /assets/docs/General_Student_Volunteer_Application_Packet.pdf
     - text: Clinical Volunteer Application
-      url: /assets/docs/Clinical_Volunteer_Application_Packet.pdf
+      url: /volunteer/clinical-volunteer/
     - text: Certified Medical Interpreter
       url: /assets/docs/Certified_Medical_Interpreter_Application.pdf
 - text: Donate
