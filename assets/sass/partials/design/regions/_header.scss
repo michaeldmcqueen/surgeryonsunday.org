@@ -51,10 +51,12 @@ header.site-header {
 }
 
 .header-image-section--front {
-  height: 300px;
+  border-bottom: 1px solid #ccc;
+  height: auto;
   overflow: hidden;
   @include breakpoint($tablet, $no-query: ".no-mq") {
     height: 550px;
+    border-bottom: 0;
   }
 
 }
